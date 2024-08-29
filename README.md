@@ -2,27 +2,21 @@ Voici un exemple de fichier README pour ton projet sur GitHub :
 
 ---
 
-# Chatbot Code du Travail Marocain
+# 💬 Chatbot Code du Travail Marocain
 
-## Description du Projet
+## 🚀Description du Projet
 
 Ce projet est un **chatbot interactif** conçu pour répondre aux questions liées au **Code du Travail marocain**. L'utilisateur peut poser des questions en langue naturelle, et le chatbot fournira des réponses contextualisées en se basant sur un fichier PDF du Code du Travail. Le projet utilise plusieurs technologies avancées pour assurer la pertinence et la précision des réponses.
 
-### Fonctionnalités principales :
-- Réponses contextuelles basées sur les lois du Code du Travail marocain.
-- Intégration avec un modèle de langage naturel (LLM) via **HuggingFace**.
-- Utilisation de **FAISS** pour la recherche vectorielle et la récupération d'informations.
-- Mémoire conversationnelle pour maintenir la continuité des échanges.
-- Interface utilisateur simple et intuitive développée avec **Streamlit**.
 
-## Technologies Utilisées
+## 🚀Technologies Utilisées
 
 - **Langchain** : Gestion des chaînes de récupération et de génération.
 - **HuggingFace** : Embeddings et traitement de langage naturel pour l'indexation et la génération des réponses.
 - **FAISS** : Recherche vectorielle permettant d'extraire des informations à partir du contenu PDF.
 - **Streamlit** : Création de l'interface utilisateur interactive pour faciliter les échanges avec le chatbot.
 
-## Prérequis
+## 🚀Prérequis
 
 Avant de cloner et d'utiliser ce projet, assurez-vous d'avoir les éléments suivants installés :
 
@@ -30,7 +24,7 @@ Avant de cloner et d'utiliser ce projet, assurez-vous d'avoir les éléments sui
 - `pip` pour la gestion des paquets
 - Un compte sur **HuggingFace** pour obtenir un token d'API (obligatoire pour utiliser le modèle de langage).
 
-## Installation et Utilisation
+## 🚀Installation et Utilisation
 
 ### Étapes pour cloner et configurer le projet :
 
@@ -68,13 +62,13 @@ Avant de cloner et d'utiliser ce projet, assurez-vous d'avoir les éléments sui
 6. **Utilisation :**
    Une fois l'application démarrée, accédez à l'interface utilisateur dans votre navigateur à l'adresse locale qui s'affiche dans le terminal. Vous pourrez poser des questions sur le Code du Travail marocain, et le chatbot vous fournira des réponses précises.
 
-## Évolutions Futures
+## 🚀Évolutions Futures
 
 - Ajout de nouveaux documents juridiques pour couvrir d'autres lois marocaines.
 - Amélioration des performances et de la rapidité des réponses.
 - Intégration d'un système de feedback pour les utilisateurs.
 
-## Contribuer
+## 🚀Contribuer
 
 Les contributions sont les bienvenues ! Si vous souhaitez apporter des modifications ou des améliorations, veuillez suivre ces étapes :
 
