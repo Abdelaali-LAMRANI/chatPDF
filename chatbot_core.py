@@ -1,5 +1,3 @@
-# chatbot_core.py
-
 import os
 from langchain_huggingface import HuggingFaceEmbeddings,HuggingFaceEndpoint
 from langchain_community.vectorstores import FAISS
@@ -25,7 +23,7 @@ llm = HuggingFaceEndpoint(
     repo_id="mistralai/Mixtral-8x7B-Instruct-v0.1",
     temperature=0.1,
     model_kwargs={"max_length": 150},
-    huggingfacehub_api_token='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'
+    huggingfacehub_api_token='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'
 )
 # Initialisation de la mémoire pour stocker l'historique des conversations
 memory = ConversationBufferMemory(
