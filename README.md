@@ -1,5 +1,5 @@
 # 💬 Chatbot Code du Travail Marocain
-
+![Aperçu du chatbot](chat.png)
 ## 🚀Description du Projet
 
 Ce projet est un **chatbot interactif** conçu pour répondre aux questions liées au **Code du Travail marocain**. L'utilisateur peut poser des questions en langue naturelle, et le chatbot fournira des réponses contextualisées en se basant sur un fichier PDF du Code du Travail. Le projet utilise plusieurs technologies avancées pour assurer la pertinence et la précision des réponses.
