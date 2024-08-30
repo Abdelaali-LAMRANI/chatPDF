@@ -1,7 +1,3 @@
-Voici un exemple de fichier README pour ton projet sur GitHub :
-
----
-
 # 💬 Chatbot Code du Travail Marocain
 
 ## 🚀Description du Projet
