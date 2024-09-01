@@ -75,4 +75,4 @@ def answer_question(question):
     memory.save_context({"input": question}, {"output": answer})
     
     return answer
-
+print(answer_question("bonjour"))
